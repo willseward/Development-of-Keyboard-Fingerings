@@ -1,0 +1,121 @@
+\documentclass[notitlepage,12pt,letterpaper]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[margin=1in]{geometry}
+\usepackage{times}
+\usepackage{amsmath}
+\usepackage{setspace}
+\usepackage[backend=biber,style=chicago-authordate]{biblatex}
+\addbibresource{paper.bib} 
+
+\title{The Development of Keyboard Fingerings from 1722 to 1849}
+\date{November 14, 2015}
+\author{William Ward}
+
+\linespread{2}
+
+\begin{document}
+\setlength{\parindent}{10ex}
+
+\begingroup 
+	\singlespacing	
+	\centering
+	\LARGE The Development of Keyboard Fingerings from 1722 to 1849\\[1em]
+	\large William Ward\\
+	\large November 14$^{\text{th}}$, 2015\\
+	\large MUSI 30613\\[1em]\par
+\endgroup
+
+\pagenumbering{gobble}
+
+The development of keyboard fingerings is an ongoing undertaking by thousands of theorists and performers alike. Each work requires a specific nuance and careful consideration that should be artfully integrated by the performer. As music developed, so did the fingering practices. The fingering schemes in the era of J.S. Bach were drastically different compared to contemporary and mid-romantic conventions in use by Chopin and his contemporaries. This disparity was driven by instrument capabilities, musical requirements, and teaching practices that were none but the product of time. The mere explanation of the differences between these two contrasting ideals is insufficient to explain such development, but an in-depth analysis of musical, technical, and theoretical influences will provide a deeper understanding of the complex and finessed art of the keyboard. \par
+Keyboardists constantly critique and appraise opinions about historical fingerings on their respective works, but few pause to consider the influences of the period instruments on which the subject determination was made, especially for music written for instruments such as the psaltry and harpsichord in the Baroque and pre-classic eras. The harpsichord, an instrument for which Johann Sebastian Bach (1685-1750) wrote a great number of pieces, appeared in its current configuration around 1602 in the \emph{Theatrum instrumentorum}, Michael Praetorius' (1571-1621) treaty on musical instruments. The harpsichord, like all plectrum instruments, produces sounds by plucking the string with a plectrum, preferably a quill.\footfullcite[][14-25]{harpsi} Due to this fact, instruments of this classification did not discriminate input into the instrument with respect to the sounds produced, unlike the modern piano. The input-force agnostic action of the harpsichord impacted the period fingering decisions by way of the elimination of the human factor, that is to say that by striking the keyboard with a strong finger did not result in an accented sound. It is understandable, then, to conclude that produced sound was not a consideration when determining the fingering for a piece for a plectrum instrument; however, some composers disagree. \par
+\pagenumbering{arabic}
+\addtocounter{page}{1}
+The keyboard, in this early era, had several distinct functions in the musical community; the most common of which, is its use as \emph{basso continuo}. As an instrument in this setting, its performers were often required to perform in an improvisatory style–a task that, no doubt, required a great deal of control. One notable performer of such is J.S. Bach. Bach, in addition to being one of the most prolific composers in history, also is recorded as one of its greatest performers. It was necessary for Bach to maintain substantial control of his hand and fingers at times due to the expansive requirement of improvisation. He is noted as playing with such control that his movements were hardly perceptible (though this is not limited to his performances as a continuist)\footfullcite[][22]{famous}. \par
+In addition to the improvisatory style of \emph{basso continuo}, the art was highly contrapuntal. This style, as is recorded by several performers and pedagogues of the period, requires a distinguished finesse so as to not emphasize any one note, but to highlight passages and construct continuous, flowing melodies. Bach, along with other performers of the genre, had such inordinate amounts of control of his fingers that the touch of his hand did ``not cost the the hearer the least exertion of attention to understand a passage so performed,''\footfullcite[][21]{famous} as Johann Nicolaus Forkel (1749-1818) recorded in his 1802 biography of the composer. \par
+As Bach, having been the focus of discussion thus far, made an incredible impact on the modern technique through his lineage and more, an explanation of the pre-Bach techniques lends itself nicely to highlight the drastic changes that are to follow. François Couperin (1668-1733), in his \emph{Art of Playing the Harpsichord}, presented several axioms for which he held paramount. Most significant is his perception of ``better'' and ``poorer'' fingers. This concept, which is still present today in a related form, forced Couperin to favor the three center fingers on each hand–the ring, middle, and index fingers. As one would imagine, Couperin frequently encountered instances where the use of the weaker fingers would provide a great deal of ease; however, he would employ techniques not uncommon to organists to substitute out fingers on the keys. This tactic provided an elegant legato while allowing his technique to remain consistent. Another concept that Couperin introduced, is constructing a fingering method to fit the phrasing of a given passage. Such practices led Couperin's music to remain incomplete without proper fingering according to some (one that would soon fall into disfavor).\footfullcite[][16-17]{famous} \par
+As Bach's reputation as an accomplished keyboardist increased and his method of performance matured, he found that in certain instances, the use of thumb and little finger were quite necessary.\footfullcite[][42]{cpebach} Though J.S. Bach did not include fingerings in his manuscripts (though a few notations exist), his technique is persisted and acknowledged by his students and children, Carl Phillip Emanuel and Wilhelm Friedemann Bach. As it is frequently noted, J.S. Bach preferred the clavichord greatly over the harpsichord due to its intimate touch. This preference frequently materializes itself in his technique by means of sustainment, and force of touch–techniques mastered by Sebastian. Forkel noted that Bach's voicing of the passages were ``not only improved, but also prolonged...even on an instrument so poor in tone as the clavichord.''\footfullcite[][21]{famous} \par
+During the height of Bach's career, another revolution in the keyboard domain was undergoing its initial production in Florence–a creation known at the time as the \emph{gravecembalo col piano, e forte}, or fortepiano to which it is frequently referred. Bartolomeo Cristofori, the sole creator of the instrument, introduced several extraordinary changes on the clavier instrument. These changes included a damper system, which prevented unstruck strings from resonating; a double action, which enabled the hammer to strike and then instantly fall away from the string; a back check mechanism, which prevented the hammers from bouncing back on the string; and most marked, a set of pedals, which control the damper height and lateral position of the hammers with respect to the strings.\footfullcite[][1-4]{grovepiano} \par
+These improvements on the current design enabled performers to add a great deal more expression and incorporate dynamics beyond the levels of the clavichord. As a result the choice of hand position and basic technique could considerably affect the sound produced. Muzio Clementi (1752-1832) consistently emphasized that the performer should select the fingering that provided the ``best effect,'' even though it may prove difficult.\footfullcite[][23]{clementiart1801} Carl Phillip Emanuel Bach (1714-1788) also mentions that the expansive colors of an expressive instrument would remain hidden if not for the varied touch of a competent performer.\footfullcite[][38]{cpebach} \par
+As a result of the improvements on the instrument, the era succeeding Sebastian Bach saw new variety in harmonies, style, and expression–a concept known as \emph{empfindsamkeit}. This emerging style saw experimentation of harmonic direction, rhythmic irregularities, and introduction of contrasting moods within a work. In order to adequately portray these characteristic traits, the performer was required to employ a new set of skills. %insert Taken quote
+In previous decades, François Couperin utilized similar skills to provide the listener with a complete understanding of the passage, though the instrument, limited as it was, frequently offered little or no effect. C.P.E. Bach even speaks briefly about the phenomenon, stating that the limitations of the prior keyboard configuration should be ``concealed under various expedients such as broken chords.''\footfullcite[][150]{cpebach} Given the new capabilities of the clavier, performers frequently felt that the choice of fingering and technique should enforce the passage. \par
+Clementi, as an early proponent of the fortepiano, taught techniques similar to that of Couperin. As is illustrated in his \emph{Introduction to the Art of Playing the Pianoforte}, no. 19, mm. 9–11, Clementi recommends playing the F$^\sharp$-A ornament beginning on the second finger, even though the thumb, which would prove louder, may feel more comfortable (though this is not the case for the D-B ornament for which the skip is prohibitive).
+
+\begingroup
+\noindent \large Leçon XIX: \emph{Triste Raison}. \small (mm. 9–11)
+\begin{lilypond}[quote,fragment,staffsize=16]
+	\relative {
+		\new PianoStaff <<	
+			\new Staff { 
+				\clef "treble" 
+				\key g \major 
+				\time 3/4
+				\grace { f'16-2 a-3  } c4-5 a-3 a-4 |
+				\grace { d,16-1 g-3 } b4-5 g-4 g-3 |
+				\grace { f16-2 a-4  } c4-5 a-4 a-3 | 
+			}
+			\new Staff { 
+				\clef "bass" 
+				\key g \major
+				\grace { s16 s } r4 <d,,-5 f-3 a-1> <d f a> |
+				r4 <d-5 g-2 b-1> <d g b> | 
+				r4 <d-5 f-3 c'-1> <d f c'> | 
+			}
+
+		>>
+	
+	}
+\end{lilypond}
+\endgroup
+
+\noindent By this decision, it can be inferred that Clementi suggests less emphasis on the F$^\sharp$ than on the succeeding quarter note (a C). Substituting the thumb for the author's suggestion would result in an imbalanced figure.\footfullcite[][40]{muziogerm} \par
+One half century before the publishing of Clementi's essay on the fortepiano, Emanuel Bach published a quite lengthly treatise describing his preferred method of approaching the keyboard, though it mainly concerns the harpsichord and clavichord, the principals outlined in the work are transferable to most keyboard instruments. Most revolutionary of its contents is the increased reliance on the thumb, a characteristic obviously inherited. Per the matter, Bach states that the ``turning under'' technique is a natural phenomenon for which the thumb is quite adept, though he does state that the older style fingering, without use of the thumb, is not forbidden. One peculiarity, with respect to more modern approaches to scale fingers, lies within Bach's optional fingering of the descending C Major scale for the right-hand. Instead of the standard modern fingering where the fifth finger lies on the initial C, Bach recommends that the scale be begun with the fourth finger on the C. This decision is possibly due to the principles outlined by Bach earlier in the work concerning the ``best effect.''\footfullcite[][46-49]{cpebach} \par
+Upon the deaths of Wolfgang Amadeus Mozart (1756-1791) and C.P.E Bach, began a new era of virtuosity. The new was style not laden with the glamor of the former, but with the \emph{simplice} of familiarity and the romance of passion. Music during this era was commonly enjoyed alongside the company of good friends in a small parlor, though the symphonic scene obviously diverges from this testament. Pianos, as the claviers was now commonly known, were now commonplace in homes. Pianos of the time took on several different forms. The square pianos, made in order to emulate and improve upon the design of the clavichord, were common for some. While others, such as Fryderyk Chopin (1810-1849), were more accustomed to the brilliant sound of a grand piano, for he ``...practise[d] [\emph{sic}] only on best quality instruments''–speaking of course about his preference for Pleyel's grand pianos.\footfullcite[][25]{chopinteacher} \par
+The availability of pianos and the environment in which they were used encouraged the composition of smaller character pieces for which the audience could enjoy in that setting. Several composers before Chopin wrote single movement works such as Beethoven, but none were as prolific as Chopin. Having written over sixty-eight of these pieces, Chopin solidified the genre.\footfullcite{chopingrove} \par
+Along with the shorter pieces came a new height of virtuosity. Pianists from the post-Mozart eras gained extreme skill and flexibility, partially due to the improvements on the instrument itself. With an ever increasing dynamic range and overall improvement in color, composers such as Franz Lizst (1811-1886) and Carl Czerny (1794-1857) in addition to Chopin were able to explore recently unknown areas of musicality and chromaticism. \par
+Turning from the romantic ideals of emotion and creativity, a few pedagogues were firmly stuck in the age of Clementi. One teacher-student lineage in the nineteenth century is particularly relevant–Carl Czerny and his student Franz Lizst. Heavily reliant on the classical idealism of Muzio Clementi, Czerny took up a regimented approach to technique. Finger exercises and digital practice were at the forefront of his curriculum. Once described as the ``purveyor of dry technique,'' Czerny provided his student a large amount sight-reading practices and improvisatory works solely to strengthen Lizst's mechanical ability. Like his predecessors, Czerny set forth a number of rules which he regarded as law and expected his students to do so as well. Though few in number, the rules are straight forward and, according to Czerny, quite reasonable. These include: ``The thumb must never be placed on the black keys,'' ``We must not strike two or more keys one after another with the self-same finger,'' and ``...the little finger should never be place on the black keys.''\footfullcite[][25]{czernyletters} \par
+Lizst, having an apparently impetuous and avaricious father, withdrew from his mentor to pursue a career–prematurely, according to his now former instructor. Like Chopin, he wrote very little about his methods, but for good reason.\footfullcite[][55-56]{beyondart} He believed firmly that musicianship was not accomplished by regimented mechanical refinement, but by creativity and passion–a trait shared by his contemporaries, Robert Schumann and Fryderyk Chopin, but not present in his instructor's lessons.\footfullcite[][16]{chopinteacher} \par
+Chopin, greatly admired by Lizst, forged the path towards revitalization of Couperin's ideals. The regimented approach to the piano by some appalled Chopin, and on account stated that reliance on pure technique ``doesn't teach us how to play the \emph{music} itself...'' Most revealing in Chopin's method is the order in which scales were presented to his pupils. Previously the pianists Clementi, Czerny and C.P.E. Bach presented the scale beginning on C. Chopin, however, sought to divorce the mathematical principles behind music from the physics of the anatomy involved. Adamantly, Chopin enforced scales to be initiated on B$^{\natural}$ due to the natural extension of the second and third fingers and the ease of turning under the thumb to the E$^{\natural}$, for the chromatic keyboard arrangement, having been in use since it first appearance in 1361\footfullcite[][11]{harpsi}, does not lend itself well to the human hand. \par
+Another deviation from the classical ideals is his interpretation of the chromatic scale. Instead of the Clementi method of 1-2-3-4-1-2-3 (starting on B$^{\natural}$), Chopin suggested using a more comfortable fingering, cleverly omitting the fourth finger. It is also recorded that Chopin made use of the archaic technique of crossing the fourth finger over the fifth, a tactic denounced by Czerny. It is obvious that Chopin disregarded the warning of the ``technicians'' and implemented a variety of styles that best fit the character of the music. An extreme example of his deviance lies in his \emph{Etude} op. 10/2 (note the frequent crossing of the third and fourth fingers):
+
+\begingroup
+\large \noindent \emph{Etude} op. 10/2
+\begin{lilypond}[quote,fragment,staffsize=16]
+    \new GrandStaff << 
+    	\new Staff { \clef treble 
+    		<< 
+    		\tempo "Allegro" 4 = 144
+	    		{ a'16-4^\markup { \italic sempre legato } ais'16-3 b'16-4 c''16-5 cis''16-3 d''16-4 dis''16-3 e''16-4 f''16-5 fis''16-3 g''16-4 gis''16-3 a''16-4 ais''16-3 b''16-4 c'''16-5 | cis'''16-3 d'''16-4 dis'''16-3 e'''16-4 f'''16-5 e'''16-4 dis'''16-3 d'''16-4 cis'''16-3 c'''16-5 b''16-4 bes''16-3 a''16-4 gis''16-3 b''16-5 a''16-4 | } 
+	    		\\
+	     		{ \set fingeringOrientations = #'(left)<c'-1 e'-2>16\p s8. \set fingeringOrientations = #'(right)<e'-1 a'-2>16 s8. <a' d''>16 s8. <d'' f''>16 s8. | <e'' a''>16 s8. <a'' c'''>16 s8. <e'' a''>16 s8. <e'' c''>16 s8. | } 
+     		>>
+ 		}
+     	\new Staff { \clef bass 
+     		{ a,8-. r8 <e a c'>8-. r8 a,8-. r8 <f d' a>8-. r8 | <a,, a,>8-. r8 <e a c'>8-. r8 <a c' e'>8-. r8 r4 | } 
+		}
+     >>
+\end{lilypond}
+\endgroup
+
+Looking back on the musical motives behind the fingering methods of François Couperin, it is clear that during the era of Chopin and Lizst, there was a resurgence of musically driven mechanics. This pedagogical shift was obviously driven by the development of the music itself–a reaction to the increased demands on the performer. Though the era of keyboard fingerings seem well defined, the evolution was quite staggered. Pedagogues like Czerny and Clementi attempted to preserve the old styles while at the same time Chopin and Schumann were carving out a new, creative approach. From the eras of Bach and his contemporaries, two centuries of discovery ultimately determined that though proper mechanical proficiency is required to ascertain the depths of the instrument, it alone is inadequate to fully unravel the complexities and nuances of the composers true intentions.
+
+\newpage
+
+\singlespacing	
+\renewcommand\refname{References\footcite{Chicago Manual of Style}}
+\printbibliography
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
